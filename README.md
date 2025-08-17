@@ -1,4 +1,3 @@
-
 <font size="5"><b>Hyperspectral Band Selection via Heterogeneous Graph Convolutional Self-Representation Network</b></font>
 
 The data are uploaded at: https://drive.google.com/drive/u/1/folders/1LdKAWH6ivwmJoxaVgH2oLXQP6JXIokSQ
